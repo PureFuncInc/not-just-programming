@@ -1,4 +1,4 @@
-# not-just-programming
+# not-just-programming [zh_TW](https://github.com/PureFuncInc/not-just-programming#zh_tw) [en_US](https://github.com/PureFuncInc/not-just-programming#en_us)
 There are many things no just programming.
 
 # zh_TW
