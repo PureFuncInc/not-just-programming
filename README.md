@@ -1,5 +1,6 @@
-# not-just-programming [zh_TW](https://github.com/PureFuncInc/not-just-programming#zh_tw) [en_US](https://github.com/PureFuncInc/not-just-programming#en_us)
-There are many things no just programming.
+# 🧱 not-just-programming
+* [➡️ zh_TW](https://github.com/PureFuncInc/not-just-programming#zh_tw) [➡️ en_US](https://github.com/PureFuncInc/not-just-programming#en_us)
+* There are many things no just programming.
 
 # zh_TW
 * 是這樣，我覺得其實有太多無關程式的的小問題一直在業內出現 😵‍💫
