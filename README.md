@@ -9,6 +9,7 @@
 * [不要用手機拍程式碼](https://github.com/PureFuncInc/not-just-programming/1/README_zh_TW.md)
 * [好好學習版本控制系統](https://github.com/PureFuncInc/not-just-programming/issues/2/README_zh_TW.md)
 * [該如何問問題](https://github.com/PureFuncInc/not-just-programming/issues/3/README_zh_TW.md)
+* [寫點筆記吧](https://github.com/PureFuncInc/not-just-programming/issues/4/README_zh_TW.md)
 
 # en_US
 * TODO
