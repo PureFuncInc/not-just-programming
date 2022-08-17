@@ -10,6 +10,8 @@
 * [好好學習版本控制系統](https://github.com/PureFuncInc/not-just-programming/issues/2/README_zh_TW.md)
 * [該如何問問題](https://github.com/PureFuncInc/not-just-programming/issues/3/README_zh_TW.md)
 * [寫點筆記吧](https://github.com/PureFuncInc/not-just-programming/issues/4/README_zh_TW.md)
+* [追隨一個導師或是目標](https://github.com/PureFuncInc/not-just-programming/issues/5/README_zh_TW.md)
+* [了解你的IDE](https://github.com/PureFuncInc/not-just-programming/issues/6/README_zh_TW.md)
 
 # en_US
 * TODO
